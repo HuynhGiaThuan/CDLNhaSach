@@ -1,0 +1,25 @@
+D:\LUUTRUSINHVIEN\QLySach\QLySach\bin\Debug\QLySach.exe.config
+I:\QLySach\QLySach\QLySach\bin\Debug\QLySach.exe.config
+I:\QLySach\QLySach\QLySach\bin\Debug\QLySach.exe
+I:\QLySach\QLySach\QLySach\bin\Debug\QLySach.pdb
+I:\QLySach\QLySach\QLySach\obj\Debug\QLySach.csproj.AssemblyReference.cache
+I:\QLySach\QLySach\QLySach\obj\Debug\QLySach.DangNhap.resources
+I:\QLySach\QLySach\QLySach\obj\Debug\QLySach.MainBanSach.resources
+I:\QLySach\QLySach\QLySach\obj\Debug\QLySach.Properties.Resources.resources
+I:\QLySach\QLySach\QLySach\obj\Debug\QLySach.csproj.GenerateResource.cache
+I:\QLySach\QLySach\QLySach\obj\Debug\QLySach.csproj.CoreCompileInputs.cache
+I:\QLySach\QLySach\QLySach\obj\Debug\QLySach.exe
+I:\QLySach\QLySach\QLySach\obj\Debug\QLySach.pdb
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\bin\Debug\QLySach.exe.config
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\bin\Debug\QLySach.exe
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\bin\Debug\QLySach.pdb
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.csproj.AssemblyReference.cache
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.DangNhap.resources
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.MainBanSach.resources
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.MainTinhTien.resources
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.Properties.Resources.resources
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.csproj.GenerateResource.cache
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.csproj.CoreCompileInputs.cache
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.exe
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.pdb
+G:\Dai Hoc\Thực hành hệ quản trị cơ sở dữ liệu\Do An Cuoi Ky\QLySach\QLySach\QLySach\obj\Debug\QLySach.TacGia.resources
